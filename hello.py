@@ -3,6 +3,7 @@ def check_is_integer(x):
     check x is integer or not
     """
     return isinstance(x, int)
+
 def a_greater_than_b(a,b):
     """
     this is temporary function that is comparing
